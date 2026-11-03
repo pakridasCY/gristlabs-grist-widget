@@ -20,7 +20,7 @@
     "@types/node": "^20.3.1",
     "@types/node-fetch": "^2.6.4",
     "@types/selenium-webdriver": "^4.1.15",
-    "chromedriver": "114",
+    "chromedriver": "156",
     "live-server": "^1.2.1",
     "mocha": "^10.2.0",
     "mocha-webdriver": "^0.2.13",
@@ -30,7 +30,7 @@
     "typescript": "^5.1.3"
   },
   "resolutions": {
-    "chromedriver": "114.0.2"
+    "chromedriver": "156.0.2"
   },
   "dependencies": {},
   "mocha": {
